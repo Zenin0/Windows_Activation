@@ -5,5 +5,5 @@
   <li>Decompress ZIP file</li>
   <li>Execute <b>W.10DigitalLicenceActivation.bat</b> file</li>
   <li>Follow the Instructions</li>
-  
+  <li>Done!</li>
 </ul>
