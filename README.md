@@ -5,5 +5,5 @@
 <h2><b>GUIDE</b></h2>
 <ul>
   <li>Decompress the zip file</li>
-  <li>And Execute ‘W.10DigitalLicenceActivation [MorrisPcPlayYT].bat‘ file</li>
+  <li>And Execute `W.10DigitalLicenceActivation [MorrisPcPlayYT].bat` file</li>
 </ul>
